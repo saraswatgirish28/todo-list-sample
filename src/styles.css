@@ -1,1 +1,14 @@
+
 /* You can add global styles to this file, and also import other style files */
+.hover-cursor{
+  cursor: pointer;
+}
+.mt-10{
+  margin-top:10px;
+}
+.mr-10{
+  margin-right:10px;
+}
+.text-white{
+  color: #ffffff;
+}
